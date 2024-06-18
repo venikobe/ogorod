@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{fa43f898-bbe9-4605-9674-950d4650e776}">
+		<property name="builtBanksOutputDirectory">
+			<value>C:/Users/ashta/Documents/Unreal Projects/ogorod/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{1a87c008-fa28-4d7c-88f8-f7b962240b98}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{51e53a95-c22f-4ca7-93d9-5d4636088171}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{b4c4ab27-233c-454e-a215-df7fd4067fe2}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{6edf0f5d-fafd-4bd9-a3bc-aa241bea2d29}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{25b44521-cbcf-489f-9aa2-2fd7b04f279c}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{68eeb6cf-de0b-4ebd-87ba-15081e4150ae}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{8666f78d-2cdb-488e-b7ba-abf800393bfa}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{d23dcdb4-67c9-4c29-955e-d5bf6e537cdb}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{73072614-e447-4885-9f54-1beb0c2672e5}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{3c0b798d-988d-4200-a7b7-705863e2a084}</destination>
+		</relationship>
+	</object>
+</objects>

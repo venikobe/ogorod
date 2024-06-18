@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c2c2f632-3612-426a-be36-aa021d18b72a}">
+		<property name="assetPath">
+			<value>steps2_zemla.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.2664166666666663</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8666f78d-2cdb-488e-b7ba-abf800393bfa}</destination>
+		</relationship>
+	</object>
+</objects>
