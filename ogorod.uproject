@@ -85,11 +85,16 @@
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"Mac",
 		"Windows",
-		"Linux"
+		"Linux",
+		"HoloLens"
 	]
 }
