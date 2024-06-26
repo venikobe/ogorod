@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{cd134f0a-1c86-4410-a0d5-c3900a1f5fd9}">
+		<property name="assetPath">
+			<value>stepsforfmod/kuvshinki/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{831bddc3-b990-4526-be1a-093163b34eba}</destination>
+		</relationship>
+	</object>
+</objects>

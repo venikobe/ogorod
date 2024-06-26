@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{18b38d2d-843b-4eca-a454-08510e69465d}">
+		<property name="assetPath">
+			<value>stepsforfmod/trava/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{831bddc3-b990-4526-be1a-093163b34eba}</destination>
+		</relationship>
+	</object>
+</objects>

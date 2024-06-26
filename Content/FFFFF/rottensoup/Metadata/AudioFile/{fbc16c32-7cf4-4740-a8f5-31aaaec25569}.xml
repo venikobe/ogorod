@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fbc16c32-7cf4-4740-a8f5-31aaaec25569}">
+		<property name="assetPath">
+			<value>stepsforfmod/kamen/k kamen-4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.64516666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{831bddc3-b990-4526-be1a-093163b34eba}</destination>
+		</relationship>
+	</object>
+</objects>
