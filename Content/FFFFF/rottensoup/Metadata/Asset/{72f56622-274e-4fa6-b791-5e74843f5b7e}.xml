@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{72f56622-274e-4fa6-b791-5e74843f5b7e}">
+		<property name="assetPath">
+			<value>stepsforfmod/zemla/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{831bddc3-b990-4526-be1a-093163b34eba}</destination>
+		</relationship>
+	</object>
+</objects>

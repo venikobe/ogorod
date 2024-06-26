@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{a68e6081-8b13-4b97-b185-b3068f3879e8}">
+		<property name="name">
+			<value>rediska</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e9903840-5897-49fd-b661-afa9f2dab0b9}</destination>
+		</relationship>
+	</object>
+</objects>
